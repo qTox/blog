@@ -3,7 +3,7 @@ layout: post
 title:  "Hello World!"
 date:   2016-08-10
 author: "Zetok Zalbavar"
-categories: qTox update website repositories OSX Linux
+tags: "update,website,repositories,OSX,Linux"
 ---
 
 
