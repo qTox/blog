@@ -35,8 +35,8 @@ test each release and avoid any last minute bugs.
 
 # Cool, how can I help?
 
-Well, a good first start is always to look at our [README] or to
-checkout our IRC channel [#qtox@freenode.net][IRC-channel]. The README has
+A good first start is always to look at our [README] or to
+check out our IRC channel [#qtox@freenode.net][IRC-channel]. The README has
 a list with various ways to help qTox, from non-Programmer tasks to Code-Guru
 level. We will be glad for any feedback, be it on IRC, Github Issues or
 our [mailing list].
