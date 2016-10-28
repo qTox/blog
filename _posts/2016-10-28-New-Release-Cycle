@@ -28,18 +28,26 @@ After some discussion we settled on release cycle of 6 weeks, split in two
 parts. The first 5 weeks of each development cycle are intended for
 features and the last week is a stabilizing phase.
 
-During the first part anyone is welcomed to send their pull requests(PRs) about
+During the first part anyone is welcomed to send their pull requests (PRs) about
 stuff they want to change in qTox. In the second part only PRs fixing bugs,
 updating the translations and minor chores are allowed. This allows us to
 test each release and avoid any last minute bugs.
 
 # Cool, how can I help?
 
-Well, a good first start is always to look at our [README][readme] or to
+Well, a good first start is always to look at our [README] or to
 checkout our IRC channel [#qtox@freenode.net][IRC-channel]. The README has
 a list with various ways to help qTox, from non-Programmer tasks to Code-Guru
-level. On the IRC we will be glad for any feedback you give :)
+level. We will be glad for any feedback, be it on IRC, Github Issues or
+our [mailing list].
+
+# The future
+
+Expect ~~us~~ more polished qTox releases \o/
+
+![polishing cat](https://i.imgur.com/BO0O7nv.gif)
 
 
 [readme]: https://github.com/qTox/qTox/tree/e8e946d4c8f21e55680ab7ff8ea0a60026b399e2#help-us
 [IRC-channel]: https://webchat.freenode.net/?channels=qtox
+[mailing list]: https://lists.tox.chat/listinfo/general
