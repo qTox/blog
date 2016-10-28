@@ -43,7 +43,7 @@ our [mailing list].
 
 # The future
 
-Expect ~~us~~ more polished qTox releases \o/
+With your help, qTox releases can become more polished than ever before \o/
 
 ![polishing cat](https://i.imgur.com/BO0O7nv.gif)
 
