@@ -13,7 +13,7 @@ qTox is changing it's release process for you :)
 
 Currently qTox has no fixed release cycle. That means we do a release when
 we feel like doing a release, which can be at any given interval. We
-determined this approach is not really fitting qTox.
+determined this approach is not really fitting for qTox.
 
 # Why?
 
@@ -37,9 +37,9 @@ test each release and avoid any last minute bugs.
 
 A good first start is always to look at our [README] or to
 check out our IRC channel [#qtox@freenode.net][IRC-channel]. The README has
-a list with various ways to help qTox, from non-Programmer tasks to Code-Guru
-level. We will be glad for any feedback, be it on IRC, Github Issues or
-our [mailing list].
+a list with various ways to help qTox, from non-programming maintenance tasks
+to features and/or bugfixes that need to be implemented. We will be glad for
+any feedback, be it on IRC, Github Issues or our [mailing list].
 
 # The future
 
