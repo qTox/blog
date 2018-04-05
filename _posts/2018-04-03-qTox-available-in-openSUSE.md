@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "qTox is now available in openSUSE's official repository"
-date:   2018-04-03
+date:   2018-04-05
 author: "tox-user"
 tags: "packages"
 ---
